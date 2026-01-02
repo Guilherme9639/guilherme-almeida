@@ -49,3 +49,7 @@ function filtrarPorCategoria(categoria) {
 
   return gastosFiltrados;
 }
+
+adicionarGasto()
+listarGastos()
+
