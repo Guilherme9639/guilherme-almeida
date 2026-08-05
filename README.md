@@ -1,4 +1,46 @@
-# guilherme-almeida
-Desenvolvedor JavaScript / Node.js em formação. Foco em backend, lógica de programação e projetos práticos.
+# Estudos de JavaScript e Node.js
 
-No arquivo Index.js estou colocando informações sobre um mini projeto, no caso seria um projeto para aperfeiçoar e melhorar minhas habilidades no Java Script, no 1_programa_nodE.js, seria para incrementar o projeto com os novos conhecimentos em Node. Basicamente um prepara e o outro completa. 
+Repositório dedicado a exercícios práticos de **JavaScript, Node.js e lógica de programação**, criado para registrar minha evolução no desenvolvimento back-end.
+
+## Objetivo
+
+Consolidar fundamentos da linguagem e aplicar novos conhecimentos em pequenos programas executáveis. Os arquivos representam etapas progressivas de aprendizagem.
+
+## Conteúdo atual
+
+- `Index.js`: exercícios e experimentos com JavaScript
+- `1_programa_nodE.js`: introdução à execução de programas com Node.js
+
+## Como executar
+
+### Pré-requisitos
+
+- Node.js instalado
+
+### Execução
+
+```bash
+git clone https://github.com/Guilherme9639/guilherme-almeida.git
+cd guilherme-almeida
+node Index.js
+```
+
+## Competências praticadas
+
+- Fundamentos de JavaScript
+- Lógica de programação
+- Execução de aplicações com Node.js
+- Organização e versionamento com Git e GitHub
+
+## Próximas melhorias
+
+- Organizar os exercícios por tema
+- Adicionar tratamento de erros e validação de entradas
+- Criar testes automatizados
+- Desenvolver uma API simples com Node.js
+
+## Autor
+
+**Guilherme de Almeida Cardozo**
+
+Analista de Dados Júnior | SQL, Power BI, Excel e Python | Experiência em Suporte e Sistemas
